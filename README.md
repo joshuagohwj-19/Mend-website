@@ -1,3 +1,3 @@
 # Mend-website
-Landing page for Mend
-Passion project by joshgwj
+
+Passion project by joshgwj For Mendyourgrout
